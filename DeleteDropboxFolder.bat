@@ -1,0 +1,1 @@
+rd /s /q C:\ProgramData\Microsoft\Windows\STARTM~1\Programs\Dropbox\
